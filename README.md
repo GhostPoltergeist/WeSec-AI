@@ -1,7 +1,7 @@
 # WeSec-AI
 
 <p align="center">
-  <img src="https://github.com/GhostPoltergeist/WeSec-AI/blob/main/Screenshot%20(260).png" width="200"/>
+  <img src="https://github.com/GhostPoltergeist/WeSec-AI/blob/main/AI.jpg" width="200"/>
 </a></p>
 
 # >>: USAGE :<<
